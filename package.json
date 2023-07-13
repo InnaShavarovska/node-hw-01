@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/InnaShavarovska/node-hw-01#readme",
   "dependencies": {
-    "nodemon": "^3.0.1"
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "uuid": "^9.0.0",
+    "yargs": "^17.7.2"
   }
 }
